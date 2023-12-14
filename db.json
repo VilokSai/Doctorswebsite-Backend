@@ -1,0 +1,23 @@
+{
+  "doctors": [
+    {
+      "name": "Vilok Sai Boddapati",
+      "salary": "1321321",
+      "gender": "male",
+      "age": "21",
+      "specialization": "pediatrician",
+      "id": 1
+    }
+  ],
+  "patients": [
+    {
+      "name": "hello",
+      "weight": "60",
+      "gender": "male",
+      "age": "29",
+      "disease": "fever",
+      "doctor": "Vilok Sai Boddapati",
+      "id": 1
+    }
+  ]
+}
